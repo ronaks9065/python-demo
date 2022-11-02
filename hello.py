@@ -2,39 +2,3 @@
 
 print('Hello, world!')
 print('Ronak')
-print('Ronak')
-print('Ronak')
-print('Ronak')
-print('Ronak')
-
-
-# print('Ronak')
-
-
-
-# print('Ronak')
-# print('Ronak')
-# print('Ronak')
-
-
-# print('Ronak')print('Ronak')
-# print('Ronak')
-# print('Ronak')
-
-
-# print('Ronak')print('Ronak')
-# print('Ronak')
-# print('Ronak')
-
-
-# print('Ronak')print('Ronak')
-# print('Ronak')
-# print('Ronak')
-
-
-# print('Ronak')print('Ronak')
-# print('Ronak')
-# print('Ronak')
-
-
-# print('Ronak')
